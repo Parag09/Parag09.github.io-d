@@ -20,7 +20,7 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Parag',
-    'I love to develop and code Web and Android Applications',
+    'I love to [ develop and code ]  Web as well as Android Applications',
     ' currently accepting freelance work.<br> You can contact me at <a href="mailto:jainparag00@gmail.com">jainparag00@gmail.com</a>',
     '<a target="_blank" href="https://github.com/Parag09">github.com/Parag09</a>',
     getCurrentTime(),
